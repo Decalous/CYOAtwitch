@@ -1,0 +1,26 @@
+Automated CYOA twitch game
+Tools: twinery.org, Python 3.7, gTTS, OBS, python-twitch-irc
+
+Step 0: 
+Learn twinery.org stuff then
+Write a simple CYOA with twinery.org
+Step 1:
+Code a game using Python 3.7
+Step 2:
+Write some more complicated CYOAs
+Step 3:
+Add text-to-speech using gTTS?
+Step 4:
+Stream to Twitch with OBS and python-twitch-irc
+Step 5:
+Write even more CYOAs that Twitch chat would like
+Step 6
+Try to automate stream
+Step 7:
+Try to run all of that on a Raspberry Pi
+Step 8:
+Write even more 
+Step 9: 
+Monetize it?/Twitter/etc?
+
+
